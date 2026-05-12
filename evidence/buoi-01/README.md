@@ -4,9 +4,9 @@ Thư mục này dùng để nộp minh chứng thiết lập môi trường lab.
 
 ## Sinh viên điền thông tin
 
-- Họ tên: Nguyễn Đình Bảo Linh
-- Mã sinh viên:1771020417
-- Nhóm:4
+- Họ tên: Nguyễn Đình Bảo Linh 
+- Mã sinh viên: 1771020417
+- Nhóm: 4
 - Vai trò dự kiến trong nhóm:
 - Hệ điều hành:
 - Ghi chú:
